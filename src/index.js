@@ -38,7 +38,7 @@ module.exports = function (context, fromOptions) {
             tagName: 'link',
             attributes: {
               rel: 'preconnect',
-              href: 'https://cdn.segment.io',
+              href: 'https://cdn.segment.com',
             },
           },
           {
